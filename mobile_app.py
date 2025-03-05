@@ -1,6 +1,6 @@
 def main():
     print("main")
 
-def register():
+def login():
     print("register")
 
