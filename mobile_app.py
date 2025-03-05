@@ -8,4 +8,6 @@ def login2():
     print("login2")
 
 
+def register2():
+    print("register2")
 
